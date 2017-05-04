@@ -1,5 +1,3 @@
 # text
 react小项目
-asd
-大师大师大师的、
-水电费水电费
+采用es6写法，react官网开发方式，直接npm install,然后npm start项目就可以跑了。
